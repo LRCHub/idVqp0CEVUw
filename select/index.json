@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "バランス",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-01-13T21:21:59.563786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バランス",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": true,
+      "path": "select/01_バランス_OGRE_YOU_ASSHOLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バランス(from 浮かれている人twilight edition EP)",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": true,
+      "path": "select/02_バランス(from_浮かれている人twilight_edition_EP)_OGRE_YOU_ASSHOLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バランス",
+      "artist": "LEGO BIG MORL",
+      "has_synced": false,
+      "path": "select/03_バランス_LEGO_BIG_MORL.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バランス (from 浮かれている人 twilight edition EP)",
+      "artist": "OGRE YOU ASSHOLE",
+      "has_synced": true,
+      "path": "select/04_バランス_(from_浮かれている人_twilight_edition_EP)_OGRE_YOU_ASSHOLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バランス",
+      "artist": "SURFACE",
+      "has_synced": true,
+      "path": "select/05_バランス_SURFACE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バランス",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_バランス_This_is_LAST.txt"
+    }
+  ]
+}
